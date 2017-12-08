@@ -20,11 +20,12 @@ A framework for detecting clickbait posts using a two-level classification appro
 ------------------
 The framework performs feature extraction on a new post and then classify it as clickbait or not. 
 
-Define variables in src/main/resources/local.properties:
-	resources: path where the resources are stored. 
-	stopClickbaitPython*: path of the folder containing the General Inquire categories files
+**Define variables in src/main/resources/local.properties:** <br />
+
+	- resources: path where the resources are stored.<br />
+	- stopClickbaitPython: path to python script executing the external feature extraction. (/resources/stop_clickbait_paper/mass_extractor.py)
 	
-* A set of features is extracted using an external framework. Refer to ----- for installation instructions. 
+A set of features is extracted using an external framework. Refer to https://github.com/bhargaviparanjape/clickbait for installation instructions. Replace the utility.py with /resources/stop_clickbait_paper/utility.py
 
 **Initialize parameters** <br />
 
@@ -62,6 +63,3 @@ Main class *ClickbaitChallenge* in *gr.iti.mklab* package. Provide command line 
 ------------------
 Olga Papadopoulou (<olgapapa@iti.gr>) <br />
 Symeon Papadopoulos (<papadop@iti.gr>)
-
-	
-
