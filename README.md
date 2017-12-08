@@ -22,17 +22,17 @@ The framework performs feature extraction on a new post and then classify it as 
 
 **Define variables in src/main/resources/local.properties:** <br />
 
-	- resources: path where the resources are stored.<br />
+	- resources: path where the resources are stored.
 	- stopClickbaitPython: path to python script executing the external feature extraction. (/resources/stop_clickbait_paper/mass_extractor.py)
 	
 A set of features is extracted using an external framework. Refer to https://github.com/bhargaviparanjape/clickbait for installation instructions. Replace the utility.py with /resources/stop_clickbait_paper/utility.py
 
 **Initialize parameters** <br />
 
-	auth = true or false. Whether to use authentication for connecting to mongoDB. Default value = false;
+	- auth = true or false. Whether to use authentication for connecting to mongoDB. Default value = false;
 		if auth = true define credentials in mongo.properties file (/src/main/resources)
-	mainDB =  name of the main database where intermediate data will be stored.
-	ProbCollection1stLevel = collection name where the probabilities that form the feature vector for the second level classification are stored.
+	- mainDB =  name of the main database where intermediate data will be stored.
+	- ProbCollection1stLevel = collection name where the probabilities that form the feature vector for the second level classification are stored.
 	
 
 Main class *ClickbaitChallenge* in *gr.iti.mklab* package. Provide command line arguments:
