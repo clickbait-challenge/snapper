@@ -1,0 +1,2009 @@
+#ausbiz,24
+#auspol,36
+#foxnewsus,31
+#premium,86
+#thisisit,28
+$1,67
+&amp,265
+&amp more,25
+-,160
+--,58
+//,23
+000,207
+1,192
+1 000,25
+10,169
+100,103
+100 days,28
+11,43
+12,60
+13,46
+14,40
+15,58
+16,51
+17,46
+18,43
+19,51
+2,189
+20,64
+2016,216
+2017,267
+2018,24
+21,49
+22,29
+23,30
+24,36
+25,49
+26,27
+3,155
+30,63
+4,110
+40,27
+5,162
+50,59
+500,22
+6,74
+60,26
+7,103
+8,66
+9,66
+a,3783
+a big,29
+a day,29
+a good,30
+a look,47
+a look at,26
+a lot,48
+a major,24
+a man,39
+a new,141
+a woman,45
+aaron,25
+abortion,24
+about,717
+about the,97
+about to,37
+abuse,31
+access,37
+accident,27
+accidentally,25
+according,66
+according to,66
+account,32
+accused,78
+accused of,65
+across,65
+across the,31
+act,46
+action,38
+actor,44
+actually,86
+ad,33
+address,46
+administration,75
+admits,25
+advice,31
+adviser,30
+africa,26
+african,24
+after,976
+after a,42
+after being,35
+after the,36
+again,96
+against,201
+age,64
+aged,31
+agency,38
+agent,26
+ago,54
+agree,29
+ahead,69
+ahead of,45
+air,69
+airline,26
+airlines,55
+airport,59
+album,75
+aleppo,33
+alive,33
+all,354
+all of,32
+all the,57
+alleged,47
+allegedly,23
+allow,28
+almost,49
+along,25
+already,61
+also,28
+always,38
+am,22
+amazing,38
+amazon,63
+ambassador,40
+america,162
+america s,37
+american,114
+americans,90
+amid,91
+among,45
+an,568
+analysis,55
+ancient,24
+and,2394
+and a,42
+and it,59
+and it s,34
+and more,33
+and other,24
+and the,128
+anniversary,23
+announced,33
+announces,58
+another,82
+answer,23
+anti-trump,23
+any,76
+anyone,26
+ap,33
+apologizes,23
+app,36
+appears,23
+apple,92
+apple s,23
+april,24
+arabia,25
+are,1110
+are now,25
+are the,105
+are you,39
+aren,30
+aren t,30
+army,40
+around,92
+around the,55
+around the world,38
+arrest,34
+arrested,116
+arrested for,23
+arrested in,28
+art,40
+artist,33
+as,838
+as a,74
+as it,24
+as the,42
+ask,32
+asked,49
+asks,31
+assault,35
+at,1308
+at a,63
+at least,90
+at the,212
+attack,220
+attack on,26
+attacks,49
+attorney,37
+attorney general,23
+australia,87
+australian,61
+authorities,37
+avoid,37
+awards,52
+away,73
+b,24
+baby,98
+back,266
+back at,34
+back on,28
+back to,28
+backlash,24
+bad,63
+ball,49
+ban,160
+bank,63
+banks,34
+banned,24
+bannon,32
+bans,24
+barack,31
+barack obama,28
+baseball,25
+basketball,36
+battle,55
+bbc,31
+be,772
+be a,63
+be the,68
+beat,30
+beautiful,29
+beauty,43
+became,35
+because,103
+because of,28
+become,69
+becomes,27
+becoming,26
+been,258
+before,164
+behind,94
+behind the,25
+being,180
+believe,27
+berlin,52
+berry,24
+best,295
+better,73
+between,53
+beyond,25
+bid,26
+big,149
+biggest,102
+bill,162
+billboard,33
+billion,99
+billionaire,24
+birth,33
+birthday,35
+black,105
+blast,25
+blasts,24
+block,24
+blood,23
+blue,24
+board,28
+bob,25
+body,55
+bomb,49
+bombing,23
+book,40
+books,34
+boost,35
+border,59
+born,24
+boss,26
+both,26
+bowl,64
+box,39
+boy,86
+brady,25
+brain,30
+brand,43
+brazil,28
+break,43
+breaking,77
+breaks,35
+brexit,101
+briefing,38
+bring,34
+britain,63
+british,90
+broke,23
+brother,29
+brought,24
+brown,25
+budget,50
+build,41
+building,33
+built,27
+bus,28
+bush,37
+business,90
+but,360
+but it,27
+buy,54
+by,777
+by a,48
+by the,55
+c,52
+cabinet,36
+california,66
+call,91
+called,57
+calling,38
+calls,102
+calls for,26
+came,29
+camera,22
+camp,25
+campaign,80
+can,472
+can be,33
+can t,64
+can you,41
+canada,41
+cancer,54
+candidate,23
+can’t,25
+capital,28
+car,137
+card,24
+care,96
+career,48
+carolina,43
+carrie,54
+carrie fisher,47
+cars,38
+case,87
+cash,46
+cast,32
+cat,46
+catch,29
+caught,43
+cause,23
+cavs,23
+celebrate,24
+celebrity,27
+center,30
+ceo,82
+challenge,34
+chance,36
+change,116
+changed,34
+changes,41
+changing,27
+character,25
+charge,31
+charged,56
+charged with,29
+charges,61
+charles,31
+chart,39
+check,38
+chemical,37
+chicago,37
+chief,67
+child,88
+children,110
+china,185
+china s,36
+chinese,84
+chris,47
+christian,22
+christmas,169
+chuck,24
+church,42
+cia,32
+cities,51
+citizens,23
+city,138
+claim,36
+claims,120
+class,36
+classic,23
+clear,26
+cleveland,25
+climate,71
+climate change,50
+clinton,59
+close,40
+club,25
+cnn,25
+coach,49
+coast,24
+colbert,28
+cold,32
+college,92
+come,62
+comes,56
+coming,76
+comments,35
+committee,24
+common,27
+community,35
+companies,60
+company,70
+concert,28
+conference,42
+confirmed,23
+confirms,29
+congress,55
+continue,24
+continues,25
+control,28
+controversial,29
+controversy,26
+convicted,25
+conway,42
+cop,23
+cops,30
+cost,44
+could,359
+could be,91
+council,35
+countries,25
+country,84
+couple,39
+course,33
+court,167
+cover,43
+crash,60
+created,24
+credit,25
+crime,40
+crisis,42
+criticism,24
+critics,27
+culture,26
+cup,33
+cut,66
+cuts,44
+d,75
+d c,39
+dad,54
+dallas,25
+dance,32
+dangerous,27
+data,37
+date,26
+daughter,65
+david,58
+day,345
+days,107
+dead,181
+dead in,33
+deadly,42
+deal,113
+deal with,32
+deals,27
+death,160
+death of,29
+deaths,29
+debate,36
+debt,28
+debut,35
+decades,31
+decision,39
+deep,23
+defends,31
+defense,39
+democrats,72
+denies,28
+department,43
+despite,58
+details,25
+did,101
+didn,47
+didn t,47
+didn’t,24
+die,34
+died,85
+dies,100
+dies at,41
+different,43
+director,37
+disney,32
+do,250
+do you,50
+doctor,31
+doctors,24
+does,79
+doesn,50
+doesn t,50
+dog,61
+dogs,27
+doing,42
+don,158
+don t,148
+donald,423
+donald trump,392
+donald trump s,80
+done,41
+don’t,33
+down,213
+down the,24
+dozens,34
+draft,39
+drake,34
+dream,23
+dress,28
+driver,39
+driving,25
+drone,23
+drop,29
+dropped,27
+drops,46
+drug,59
+drugs,23
+due,35
+due to,31
+during,159
+each,40
+early,45
+earth,51
+east,29
+easter,25
+easy,26
+eating,28
+economic,44
+economy,44
+ed,42
+ed sheeran,38
+education,23
+eight,28
+election,141
+else,29
+emotional,27
+employee,24
+employees,35
+end,104
+end of,34
+energy,36
+england,27
+english,22
+enough,39
+era,31
+escape,27
+escaped,37
+eu,66
+europe,69
+european,54
+eve,30
+even,100
+event,23
+ever,109
+every,99
+everyone,56
+everything,64
+everything you,30
+everything you need,24
+everything you need to,24
+evidence,33
+exclusive,46
+executive,56
+executive order,30
+expect,25
+expected,53
+expected to,30
+expert,26
+experts,40
+explains,33
+eyes,25
+face,76
+facebook,103
+faces,66
+facing,27
+failed,25
+fake,68
+fake news,37
+fall,42
+falls,27
+families,35
+family,123
+famous,25
+fan,53
+fans,72
+far,56
+fashion,36
+fatal,23
+father,58
+favorite,38
+fbi,43
+fear,40
+fears,36
+fed,37
+federal,77
+feel,40
+female,49
+festival,32
+few,23
+fight,104
+fighting,36
+film,60
+final,92
+finally,53
+financial,41
+find,95
+find out,23
+finds,74
+fire,92
+fired,43
+firm,26
+first,417
+first time,39
+fisher,51
+five,51
+flight,76
+florida,68
+flying,24
+flynn,27
+focus,24
+follow,28
+following,60
+food,62
+footage,30
+football,62
+for,2642
+for 2017,27
+for a,154
+for his,44
+for more,23
+for the,232
+for the first,29
+for the first time,28
+for trump,28
+for your,35
+force,37
+forced,43
+forced to,30
+forces,37
+foreign,58
+former,156
+found,166
+found in,31
+four,88
+fox,78
+fox news,39
+france,53
+fraud,22
+free,77
+french,81
+friend,34
+friends,33
+from,1030
+from a,54
+from the,147
+from the day,32
+front,32
+full,93
+fun,27
+fund,44
+funding,26
+future,81
+gaga,34
+galaxy,29
+game,202
+game of,34
+game of thrones,28
+games,42
+gas,38
+gave,46
+gay,39
+general,62
+george,77
+georgia,24
+german,48
+germany,35
+get,307
+get the,23
+gets,126
+getting,94
+giant,46
+giants,24
+girl,107
+girlfriend,25
+girls,53
+give,94
+given,26
+gives,59
+giving,23
+global,61
+go,132
+goes,58
+going,123
+going to,63
+gold,27
+golden,46
+goldman,24
+golf,26
+good,121
+google,54
+gop,88
+gorsuch,39
+got,122
+government,118
+grammy,23
+great,82
+greatest,25
+green,66
+group,72
+growing,37
+growth,36
+guide,52
+guide to,35
+guilty,29
+gun,46
+guy,45
+hacking,34
+had,173
+had a,40
+had to,25
+hair,42
+half,37
+hall,27
+hands,33
+happen,31
+happened,26
+happens,26
+happy,47
+hard,45
+harry,32
+has,801
+has a,53
+has been,111
+has died,41
+has the,23
+hate,42
+have,556
+have a,48
+have been,67
+have to,43
+having,43
+he,556
+he has,29
+he is,27
+he s,72
+he was,59
+head,77
+health,124
+health care,47
+hearing,25
+heart,65
+heartbreaking,25
+heavy,26
+held,32
+help,162
+helped,28
+helping,36
+her,407
+here,443
+here are,60
+here s,253
+here s how,54
+here s the,26
+here s what,81
+here s what you,35
+here s why,34
+here’s,74
+hero,25
+he’s,24
+high,99
+high school,38
+hilarious,44
+hill,27
+hillary,50
+hillary clinton,36
+him,166
+himself,48
+his,859
+his own,30
+historic,31
+history,112
+hit,99
+hits,66
+hold,51
+holding,24
+holds,24
+holiday,55
+hollywood,53
+home,167
+homes,32
+honor,25
+hope,42
+hopes,26
+hospital,49
+host,38
+hot,41
+hotel,43
+hours,51
+house,321
+housing,23
+how,719
+how a,23
+how much,32
+how the,49
+how to,157
+http,49
+http //,23
+huge,34
+human,53
+hundreds,42
+hundreds of,37
+hunt,33
+hurt,24
+husband,31
+i,282
+i m,35
+ice,42
+iconic,28
+icymi,36
+idea,29
+if,240
+if you,66
+illegal,31
+images,27
+immigrants,45
+immigration,76
+important,36
+in,4204
+in 2016,73
+in 2017,80
+in a,201
+in america,36
+in an,36
+in china,26
+in his,40
+in new,64
+in on,26
+in syria,53
+in the,585
+in the u,25
+in the u s,23
+in the world,49
+in their,24
+in this,30
+in your,32
+inauguration,83
+incident,44
+including,27
+increase,28
+incredible,31
+india,84
+indian,41
+industry,64
+injured,57
+inside,99
+inside the,34
+instagram,59
+instead,24
+intel,24
+intelligence,44
+interest,25
+international,37
+internet,79
+interview,44
+into,332
+into a,40
+into the,53
+investigation,56
+investors,39
+iphone,41
+iran,50
+iraq,29
+iraqi,27
+is,2268
+is a,130
+is back,23
+is coming,23
+is going,26
+is how,23
+is in,37
+is just,24
+is not,50
+is now,48
+is on,34
+is the,170
+is what,30
+isis,95
+island,35
+isn,53
+isn t,53
+israel,44
+israeli,27
+issue,29
+issues,35
+it,961
+it is,38
+it s,213
+it was,51
+italian,34
+italy,35
+its,351
+its first,24
+it’s,72
+ivanka,53
+ivanka trump,43
+j,53
+jackson,37
+jail,26
+jailed,23
+james,89
+japan,46
+japanese,33
+jeff,38
+jeff sessions,24
+jenner,34
+jeremy,26
+jersey,26
+jets,23
+jewish,29
+jimmy,44
+job,92
+jobs,82
+joe,41
+john,126
+johnson,25
+join,41
+joins,27
+jokes,25
+jones,28
+jordan,23
+judge,88
+just,428
+just in,42
+justice,35
+justin,33
+k,47
+kanye,36
+kanye west,29
+kardashian,32
+keep,80
+keeps,28
+kellyanne,42
+kellyanne conway,41
+kendrick,24
+kevin,23
+key,54
+kid,26
+kids,83
+kill,48
+killed,180
+killed in,52
+killer,32
+killing,76
+kills,42
+kim,59
+king,44
+knew,26
+know,230
+know about,72
+know about the,23
+knows,23
+korea,135
+korean,44
+kushner,22
+l,20
+la,33
+lady,54
+lady gaga,34
+lamar,25
+land,37
+largest,37
+last,152
+last night,25
+late,36
+later,47
+latest,81
+launch,50
+launches,37
+law,73
+lawmaker,31
+lawmakers,37
+lawsuit,23
+le,42
+le pen,29
+lead,53
+leader,71
+leaders,46
+leading,27
+leads,29
+league,48
+learn,24
+least,100
+leave,69
+leaves,53
+leaving,41
+lebron,55
+lebron james,29
+left,81
+legacy,22
+legal,38
+legend,30
+less,63
+let,69
+letter,31
+life,227
+light,26
+like,250
+like a,29
+likely,47
+likely to,26
+line,43
+linked,25
+linked to,23
+list,70
+list of,33
+listen,35
+listen to,25
+little,66
+live,243
+lives,33
+living,37
+ll,68
+london,70
+long,62
+longer,26
+look,158
+look at,55
+look at the,25
+looking,40
+looks,63
+looks like,26
+lose,30
+loses,24
+losing,24
+loss,31
+lost,69
+lot,55
+love,114
+low,24
+m,50
+made,151
+made a,23
+major,78
+make,277
+make a,25
+make you,47
+makes,99
+making,93
+man,361
+man who,43
+many,93
+march,71
+marijuana,33
+marine,32
+marine le,24
+marine le pen,23
+mark,34
+market,99
+markets,27
+marriage,26
+martin,38
+massive,41
+may,306
+may be,55
+may have,42
+mayor,37
+me,86
+mean,32
+means,25
+media,111
+meet,119
+meet the,49
+meeting,45
+members,46
+meme,26
+men,113
+mental,24
+merkel,34
+message,46
+mexico,74
+michael,94
+michigan,32
+might,79
+might be,28
+migrants,28
+mike,48
+military,75
+million,164
+millions,27
+minister,66
+minutes,30
+miss,44
+missed,38
+missile,45
+missing,65
+mlb,25
+model,29
+mom,58
+moment,60
+moments,36
+monday,27
+money,76
+month,48
+months,62
+more,501
+more than,135
+morning,37
+moscow,24
+most,334
+mosul,25
+mother,75
+move,65
+moved,23
+moves,31
+movie,68
+movies,31
+mp,23
+mps,24
+much,109
+murder,64
+music,116
+muslim,55
+must,60
+my,129
+mystery,26
+n,24
+name,50
+named,37
+nasa,34
+nation,28
+national,98
+nato,23
+navy,32
+nba,88
+near,63
+nearly,60
+need,206
+need to,144
+need to know,90
+need to know about,38
+needs,46
+neil,26
+netflix,39
+never,96
+new,1111
+new study,34
+new year,58
+new year s,29
+new york,100
+news,203
+next,148
+nfl,95
+nicki,23
+night,106
+nightclub,27
+no,304
+no 1,45
+no one,25
+nominee,32
+north,187
+north carolina,30
+north korea,101
+north korean,23
+not,463
+not a,26
+not to,25
+note,27
+nothing,30
+now,331
+nuclear,50
+number,48
+number of,25
+numbers,28
+nyc,35
+o,51
+o reilly,23
+obama,242
+obama s,44
+obamacare,83
+of,3918
+of 2016,49
+of a,141
+of all,38
+of his,68
+of its,28
+of new,29
+of the,600
+of the day,32
+of the most,23
+of the world,25
+of the year,43
+of thrones,28
+of trump,52
+of your,25
+off,235
+off the,33
+offer,32
+offers,35
+office,96
+officer,65
+officers,36
+official,70
+officials,81
+officials say,24
+oh,31
+ohio,37
+oil,53
+old,63
+on,2214
+on a,83
+on his,38
+on new,28
+on the,303
+on trump,27
+on twitter,36
+once,46
+one,415
+one of,98
+one of the,53
+online,45
+only,125
+open,77
+opening,40
+opens,38
+opinion,50
+opposition,24
+or,177
+order,93
+orders,26
+oscar,38
+oscars,41
+other,130
+others,32
+our,173
+out,500
+out of,116
+outside,31
+over,533
+over the,51
+own,113
+owner,43
+paid,36
+pakistan,31
+parents,66
+paris,67
+park,33
+parliament,33
+part,46
+part of,27
+party,106
+passenger,26
+passengers,27
+past,55
+patriots,41
+paul,54
+pay,104
+peace,23
+pen,29
+pence,41
+people,486
+people are,64
+people in,32
+people who,45
+per,55
+percent,24
+perfect,49
+perform,32
+performance,50
+perry,28
+person,44
+personal,25
+phone,52
+photo,91
+photo of,24
+photos,121
+photos of,40
+pic,83
+pic reuters,25
+pick,58
+picks,39
+picture,37
+pictures,59
+pipeline,24
+pizza,21
+place,43
+places,25
+plan,113
+plan to,46
+plane,68
+planning,30
+plans,106
+plans to,56
+play,69
+played,27
+player,52
+players,76
+playing,37
+pm,38
+point,27
+police,318
+police officer,29
+police say,44
+policy,62
+political,66
+politicians,23
+politics,43
+poll,32
+pop,25
+popular,34
+possible,35
+post,40
+posts,23
+potential,32
+power,84
+powerful,45
+pregnant,23
+pres,85
+pres trump,64
+pres trump s,26
+presidency,35
+president,441
+president obama,45
+president trump,167
+president trump s,43
+president-elect,31
+presidential,52
+press,74
+press conference,23
+pressure,25
+pretty,37
+prevent,23
+price,36
+prices,35
+prime,31
+prime minister,26
+prince,56
+princess,23
+prison,94
+private,23
+probably,38
+probe,42
+problem,44
+problems,26
+products,31
+profit,23
+program,29
+project,30
+protect,23
+protest,58
+protesters,35
+protests,42
+prove,29
+public,69
+pulled,24
+push,26
+put,45
+putin,78
+qb,23
+queen,38
+question,36
+questions,68
+quiz,30
+quote,23
+race,51
+racist,28
+radio,24
+raise,38
+raises,31
+rally,56
+rankings,25
+rape,36
+rare,28
+rate,36
+rates,28
+re,141
+read,52
+ready,52
+ready to,24
+real,92
+reality,30
+really,137
+reason,35
+reasons,30
+recent,24
+record,77
+red,50
+refugee,31
+refugees,40
+reilly,24
+relationship,36
+release,55
+released,48
+releases,26
+remain,24
+remains,39
+remember,25
+rep,26
+repeal,43
+report,120
+reportedly,116
+reporter,27
+reports,71
+republican,40
+republicans,74
+rescued,27
+research,26
+responds,23
+response,39
+rest,27
+retirement,41
+return,72
+return to,31
+returns,45
+reuters,26
+reveal,43
+revealed,46
+reveals,101
+review,46
+rex,26
+rex tillerson,26
+reynolds,24
+right,124
+right now,36
+rights,51
+rise,51
+rising,24
+risk,45
+road,44
+robert,26
+rock,45
+role,47
+room,27
+round,29
+row,30
+rule,23
+rules,55
+ruling,25
+run,71
+running,46
+russia,183
+russian,145
+ryan,52
+s,3548
+s a,68
+s day,31
+s first,52
+s how,57
+s immigration,25
+s most,58
+s new,70
+s not,38
+s the,58
+s top,23
+s what,86
+s what you,35
+s what you need,33
+s why,36
+safe,25
+safety,24
+said,116
+sales,47
+same,33
+samsung,35
+san,29
+sanctuary,27
+saturday,37
+saudi,37
+saudi arabia,23
+save,63
+saved,31
+say,322
+saying,30
+says,732
+says he,78
+says it,34
+says she,24
+says the,25
+scandal,28
+scene,30
+school,127
+schools,29
+science,36
+scientists,70
+scott,30
+sea,39
+sean,53
+sean spicer,39
+search,58
+search for,27
+season,116
+seat,28
+second,60
+secret,65
+secretary,87
+secretary of,25
+security,89
+see,123
+seeks,26
+seen,49
+sell,32
+selling,28
+sen,23
+senate,63
+send,32
+senior,33
+sent,33
+series,49
+serious,24
+service,62
+sessions,48
+set,128
+set to,58
+sets,27
+seven,37
+several,32
+sex,97
+sexual,29
+share,51
+shares,52
+shark,25
+she,191
+she was,32
+sheeran,38
+ship,24
+shoot,25
+shooting,105
+shot,96
+should,227
+should be,36
+show,174
+shows,157
+side,23
+sign,70
+signs,47
+simple,28
+since,92
+singer,33
+single,50
+sister,23
+site,26
+six,48
+slams,36
+sleep,35
+small,32
+smart,26
+smith,28
+snapchat,34
+snl,29
+snow,40
+so,213
+so far,26
+social,82
+social media,53
+some,203
+some of,28
+someone,45
+something,45
+son,68
+song,43
+songs,49
+soon,57
+source,28
+sources,35
+south,119
+south korea,34
+southern,25
+space,56
+speak,33
+speaks,29
+special,46
+speech,69
+spending,25
+spicer,51
+sports,35
+st,27
+staff,38
+stand,28
+star,112
+star wars,29
+stars,48
+start,94
+start your,23
+started,27
+starting,24
+state,185
+statement,26
+states,64
+station,25
+statue,22
+stay,44
+step,35
+stephen,49
+stephen colbert,26
+steve,55
+still,128
+stock,35
+stocks,33
+stop,99
+store,33
+stories,79
+stories from,38
+stories from the,27
+stories from the day,26
+storm,26
+story,83
+street,61
+strike,47
+strikes,44
+strong,27
+student,54
+students,71
+study,103
+study finds,23
+stunning,29
+style,28
+suggests,37
+suicide,50
+summer,32
+sunday,35
+super,78
+super bowl,50
+support,59
+supporters,27
+supreme,68
+supreme court,63
+sure,24
+surgery,34
+surprise,42
+suspect,102
+suspected,34
+sweden,23
+syria,125
+syrian,60
+system,29
+t,582
+t be,23
+t know,23
+take,159
+take a,28
+taken,33
+takes,81
+taking,77
+talk,55
+talking,32
+talks,75
+target,23
+tax,107
+taxes,23
+teacher,44
+team,130
+teams,39
+tech,60
+technology,33
+teen,74
+tell,61
+tells,60
+terror,43
+tesla,31
+test,77
+texas,94
+than,313
+thanks,36
+thanks to,23
+that,898
+that are,28
+that he,23
+that s,42
+that the,23
+that was,27
+that will,50
+the,6060
+the 2017,36
+the best,151
+the biggest,36
+the country,27
+the day,76
+the end,31
+the end of,26
+the first,115
+the first time,29
+the future,27
+the internet,51
+the last,35
+the latest,35
+the man,28
+the most,152
+the nba,37
+the new,95
+the next,43
+the nfl,35
+the perfect,25
+the president,28
+the same,24
+the top,44
+the trump,58
+the u,110
+the u s,107
+the uk,26
+the us,61
+the way,38
+the white,46
+the white house,44
+the world,237
+the world s,82
+the world s most,27
+the worst,28
+the year,62
+their,438
+their own,25
+them,115
+then,55
+there,145
+there s,49
+theresa,68
+theresa may,66
+these,266
+these are,61
+these are the,56
+they,290
+they re,34
+thing,71
+things,156
+things you,27
+think,108
+thinking,24
+thinks,31
+third,40
+this,1022
+this is,118
+this is what,29
+this week,48
+this woman,24
+this year,54
+this year s,23
+those,56
+thought,33
+thousands,51
+thousands of,29
+threat,43
+three,96
+thrones,28
+through,102
+ties,36
+tillerson,36
+tim,29
+time,251
+time to,35
+times,90
+tips,29
+title,26
+to,5410
+to a,97
+to avoid,25
+to be,247
+to be a,26
+to become,30
+to build,23
+to buy,32
+to do,55
+to fight,28
+to find,34
+to get,107
+to give,40
+to go,42
+to have,50
+to help,66
+to her,25
+to his,34
+to keep,47
+to know,127
+to know about,50
+to make,100
+to meet,25
+to pay,36
+to save,34
+to say,27
+to see,38
+to start,34
+to stop,36
+to take,50
+to the,245
+to trump,36
+to watch,29
+to your,26
+today,117
+together,30
+told,63
+tom,54
+tonight,33
+tony,32
+too,93
+took,61
+top,205
+top stories,28
+top stories from,27
+totally,24
+tough,25
+tour,37
+town,52
+track,32
+trade,94
+trading,26
+trailer,37
+train,32
+training,29
+transgender,37
+travel,101
+travel ban,65
+treatment,29
+tree,26
+trial,47
+tribute,44
+tribute to,31
+tried,36
+tried to,27
+trip,23
+truck,47
+true,34
+trump,1873
+trump administration,56
+trump and,42
+trump has,40
+trump is,70
+trump s,425
+trump says,46
+trump to,54
+trump’s,158
+truth,25
+try,48
+trying,67
+trying to,60
+turkey,45
+turn,46
+turned,36
+turns,48
+tv,101
+tweet,50
+tweets,70
+twitter,167
+two,224
+u,388
+u k,23
+u s,344
+uber,41
+uk,94
+un,37
+under,122
+union,28
+united,82
+united airlines,24
+university,35
+until,35
+up,470
+up for,35
+up in,29
+up the,29
+up to,63
+up with,27
+update,34
+us,414
+use,86
+used,56
+users,29
+using,53
+v,28
+ve,54
+very,90
+via,592
+victim,27
+victims,39
+victory,35
+video,289
+video of,23
+video shows,26
+videos,23
+view,44
+violence,37
+viral,41
+visit,59
+vladimir,26
+vladimir putin,26
+vote,101
+voters,30
+vs,46
+wait,27
+wall,75
+wall street,27
+want,114
+want to,69
+wants,115
+wants to,65
+war,100
+warning,26
+warns,48
+warren,23
+warriors,40
+wars,35
+was,578
+was a,40
+was the,29
+washington,54
+wasn,26
+wasn t,26
+watch,329
+watch live,64
+watch the,31
+water,51
+way,174
+way to,49
+ways,72
+ways to,38
+we,391
+we can,23
+we have,23
+we re,53
+weapons,33
+wearing,25
+weather,30
+wedding,43
+weed,21
+week,157
+weekend,61
+weeks,41
+weird,28
+well,58
+went,66
+were,143
+west,77
+westbrook,23
+what,606
+what is,32
+what it,34
+what s,42
+what the,29
+what to,31
+what we,24
+what you,74
+what you need,53
+what you need to,51
+when,222
+when you,26
+where,115
+which,74
+while,83
+white,242
+white house,172
+who,606
+who is,32
+why,418
+why the,28
+wife,61
+will,765
+will be,98
+will make,37
+williams,31
+win,104
+wine,22
+winner,28
+winning,27
+wins,42
+winter,33
+with,1522
+with a,147
+with her,24
+with his,45
+with the,124
+with trump,33
+without,102
+woman,244
+women,254
+women in,23
+women s,45
+women’s,23
+won,106
+won t,68
+words,33
+work,129
+worker,30
+workers,57
+working,54
+world,381
+world s,106
+world s most,29
+worse,24
+worst,65
+worth,55
+would,142
+writes,64
+wrong,59
+year,295
+year s,56
+years,282
+years ago,35
+yemen,23
+yes,27
+yet,32
+york,101
+you,1060
+you a,24
+you can,70
+you need,121
+you need to,107
+you need to know,86
+you re,53
+you should,46
+you think,26
+young,78
+your,597
+yourself,23
+zoo,22
+|,125
+–,151
+—,149
+— and,36
+’,25
+”,70
+🎥,89
